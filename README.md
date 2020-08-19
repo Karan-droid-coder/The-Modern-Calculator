@@ -11,6 +11,6 @@ python run.py
 
 ### contact me
 by chsaiujwal<br>
-instagram: @logobang <br>
+instagram: <a herf="https://www.instagram.com/logobang/"> @logobang <br></a>
 twitter: @chsaiujwal<br>
 telegram: @chsaiujwal
