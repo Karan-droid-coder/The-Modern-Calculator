@@ -2,9 +2,9 @@ import pyfiglet
 
 ascii_banner = pyfiglet.figlet_format("The Modern Calculator")
 print(ascii_banner)
-print("                                        ─│───────────────────────│─")
+print("                                        ─│───────────────────────│─" )
 print("                                         │  by chsaiujwal        │\n                                         │  instagram:-logobang  │\n                                         │  twitter:-chsaiujwal  │\n                                         │  telegram:-chsaiujwal │")
-print("                                        ─│───────────────────────│─")
+print("                                        ─│───────────────────────│─" )
 
 
 
